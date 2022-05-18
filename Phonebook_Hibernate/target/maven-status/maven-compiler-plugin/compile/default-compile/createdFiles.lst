@@ -1,0 +1,6 @@
+com\example\testMaven\controller\ContactController.class
+com\example\testMaven\dao\ContactDAO.class
+com\example\testMaven\service\ContactService.class
+com\example\testMaven\dto\ContactDto.class
+com\example\testMaven\entity\MyContact.class
+com\example\testMaven\TestMavenApplication.class
